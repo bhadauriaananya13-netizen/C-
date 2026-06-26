@@ -23,4 +23,3 @@ This project helps manage product information in a supermart by storing product 
 - Conditional Statements
 - String Handling
 
-## Project Structure
